@@ -1,6 +1,6 @@
 # Hwacha [![Build Status](https://travis-ci.org/shamlikt/Hwacha.svg?branch=master)](https://travis-ci.org/shamlikt/Hwacha)
 
-Broadcast your news
+Broadcast your news just like that
 
 ### What is Hwacha
 Hwacha is a broadcasting application. Hwacha enables you to broadcast your messages accross various social medias at a time.
